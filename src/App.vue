@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <el-row>
-      <el-button>githop</el-button>
+      <el-button>ezc is pig</el-button>
       <el-button type="primary">主要按钮</el-button>
       <el-button type="success">成功按钮</el-button>
       <el-button type="info">信息按钮</el-button>
@@ -31,8 +31,8 @@
 
 <script>
 export default {
-  name: "App",
-};
+  name: 'App'
+}
 </script>
 
 <style>
